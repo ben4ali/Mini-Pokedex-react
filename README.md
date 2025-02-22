@@ -16,7 +16,7 @@ Ce projet est un **mini Pokédex** développé avec **React** dans le cadre d'un
 ## Installation
 1. **Cloner le projet** :
    ```sh
-   git clone https://github.com/votre-repo/mini-pokedex-react.git
+   git clone https://github.com/ben4ali/Mini-Pokedex-react
    cd mini-pokedex-react
    ```
 2. **Installer les dépendances** :
